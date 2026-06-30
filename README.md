@@ -22,7 +22,7 @@ The project combines **Python**, **Google BigQuery**, **statistical analysis**, 
   - NumPy
   - Scikit-learn
   - SciPy
-  - Tableau / Power BI (for dashboards)
+  - Power BI
 
 ---
 
