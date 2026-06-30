@@ -38,8 +38,6 @@ Before analysis, the dataset required extensive cleaning and preprocessing.
 - Organized and formatted variables for easier analysis
 - Prepared the dataset for statistical modeling and visualization
 
-*Figure 1 demonstrates the preprocessing workflow.*
-
 ---
 
 ## Exploratory Data Analysis (EDA)
@@ -52,8 +50,6 @@ The first exploratory analysis examined the distribution of **male and female pa
 
 - Hospitalized patients contained a noticeably higher proportion of males.
 - This observation suggested a potential relationship between gender and disease severity.
-
-*See Figure 2.*
 
 ---
 
@@ -68,8 +64,6 @@ A correlation analysis was performed between patient comorbidities and COVID-19 
   - **27.75**, significantly higher than other comorbidities.
 
 This finding motivated additional statistical testing and machine learning analysis.
-
-*See Figure 3.*
 
 ---
 
@@ -89,8 +83,6 @@ Patients diagnosed with pneumonia were:
 - Stronger predictor than any other measured comorbidity
 
 Although other conditions contributed to mortality risk, none approached the impact of pneumonia.
-
-*See Figure 4.*
 
 ---
 
@@ -118,8 +110,6 @@ Patients with pneumonia were found to be:
 
 This statistical result strengthened the findings produced by the logistic regression model.
 
-*See Figure 5.*
-
 ---
 
 ## Data Visualization
@@ -138,8 +128,6 @@ Major spikes in mortality occurred between:
 - **April 2020**
 - **August 2020**
 
-*See Figure 6.*
-
 ---
 
 ### Dashboard 2 — Pneumonia Analysis
@@ -151,8 +139,6 @@ Key insights include:
 - Dramatically higher mortality among patients with pneumonia
 - Male patients experienced substantially higher death rates
 - Pneumonia consistently appeared as the strongest mortality indicator
-
-*See Figure 7.*
 
 ---
 
