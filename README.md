@@ -6,7 +6,7 @@ Original Dataset Used From Kaggle: https://www.kaggle.com/datasets/meirnizri/cov
 
 This project analyzes a COVID-19 patient dataset published by the Mexican Government containing approximately **1 million patient records** across **21 features**. The goal of this analysis is to identify the leading factors associated with COVID-19 mortality and provide insights that may contribute to improved prevention, protection, and treatment strategies.
 
-The project combines **Python**, **Google BigQuery**, **statistical analysis**, *SQL*, **machine learning**, and **interactive dashboards** to uncover relationships between patient comorbidities and mortality outcomes.
+The project combines **Python**, **Google BigQuery**, **statistical analysis**, **machine learning**, and **interactive dashboards** to uncover relationships between patient comorbidities and mortality outcomes.
 
 ---
 
